@@ -1,1 +1,1 @@
-# SEED-Side Channel Analysis 교육자료
+# SEED-Side Channel Analysis 자체실험코드
